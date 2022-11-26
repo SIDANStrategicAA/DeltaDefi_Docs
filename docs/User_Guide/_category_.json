@@ -1,0 +1,8 @@
+{
+  "label": "User-Guide",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "The user guide will provide you walkthrough of Delta DeFi protocol with screeenshots and descriptions."
+  }
+}
