@@ -71,14 +71,14 @@ const config = {
           },
           {
             label: "Whitepaper",
-            to: "/docs/category/whitepaper",
+            to: "/docs/whitepaper",
             position: "left",
           },
-          {
-            label: "Security",
-            to: "/docs/category/security-and-audits",
-            position: "left",
-          },
+          // {
+          //   label: "Security",
+          //   to: "/docs/category/security-and-audits",
+          //   position: "left",
+          // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             label: "GitHub",
@@ -99,12 +99,12 @@ const config = {
               },
               {
                 label: "Whitepaper",
-                to: "/docs/category/whitepaper",
+                to: "/docs/whitepaper",
               },
-              {
-                label: "Security",
-                to: "/docs/category/security-and-audits",
-              },
+              // {
+              //   label: "Security",
+              //   to: "/docs/category/security-and-audits",
+              // },
             ],
           },
           {
